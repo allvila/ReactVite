@@ -1,0 +1,11 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  font-family: "Aclonica", sans-serif;
+}
+body{
+ min-height: 100vh;
+ width: 100vw;
+ background: linear-gradient(to bottom, #F9CBD6, #F2AFBC);
+}
